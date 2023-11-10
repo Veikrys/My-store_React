@@ -1,0 +1,62 @@
+.title4 {
+    position: absolute;
+    display: flex;
+    margin-top: 100px;
+    margin-left: 135px;
+}
+
+.title4 h2 {
+    color: #121212;
+    font-family: Roboto;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 87.305%;
+}
+
+.title4 h2 span {
+    color: #514A7E;
+    font-family: 'Sansdiego Style', sans-serif;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 116.406%;
+}
+
+.reviews {
+    display: inline-flex;
+    margin-top: 240px;
+    margin-left: 120px;
+}
+
+.rev1 {
+    margin: 10px;
+}
+
+.rev2 {
+    margin: 10px;
+}
+
+.rev3 {
+    margin: 10px;
+    display: none;
+}
+
+.add {
+    width: 148px;
+    height: 37px;
+    border: 0.5px solid #514A7E;
+    background: #514A7E;
+    margin-top: 20px;
+    margin-left: 135px;
+
+    color: aliceblue;
+}
+
+.scroll {
+    background-color: white;
+    border: none;
+    position: absolute;
+    margin-left: 1100px;
+    margin-top: 290px;
+}

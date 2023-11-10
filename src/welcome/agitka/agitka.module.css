@@ -1,0 +1,123 @@
+.ellipse {
+    border-radius: 100% 0 0 100% / 50% 0 0 50%;
+    border: 1px solid #514A7E;
+    width: 320px;
+    height: 640px;
+    position: absolute;
+    margin-top: 773px;
+    margin-left: 1255px;
+    transition: 1s linear;
+}
+
+.ellipse:hover {
+    background-color: #514A7E;
+}
+
+.titleText2 {
+    color: #121212;
+    font-family: Roboto;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 87.305%;
+}
+
+.titleText span {
+    color: #514A7E;
+    font-family: 'Sansdiego Style', sans-serif;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 116.406%;
+}
+
+.title2 {
+    display: flex;
+    width: 440px;
+    height: 40px;
+    position: absolute;
+    margin-top: 1101px;
+    margin-left: 135px;
+}
+
+.agitka2 {
+    position: absolute;
+    margin-top: 1235px;
+    margin-left: 135px;
+}
+
+.agitSet2 {
+    margin-left: 421px;
+}
+
+.agitSet4 {
+    margin-left: 421px;
+}
+
+.toUp {
+    position: fixed;
+    margin-top: 600px;
+    margin-left: 1380px;
+    z-index: 1000;
+    display: none;
+    transition: 0.5s linear;
+}
+
+.toUp button {
+    width: 105px;
+    height: 105px;
+    border-radius: 50%;
+    background-color: #514A7E;
+    border: solid #514A7E;
+    transition: 0.5s linear;
+}
+
+.toUp button:hover {
+    background: white;
+    color: #514A7E;
+    border-color: #514A7E;
+
+    .toUpImg{
+        fill: #514A7E;
+    };
+}
+
+/* .toUp button:hover + .toUpImg{
+    fill: #514A7E;
+}; */
+
+.toUpbtn {
+    margin-right: 300px;
+}
+
+.toMessage {
+    position: absolute;
+    margin-top: 1115px;
+    margin-left: 430px;
+}
+
+.toMessage button{
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    background-color: #514A7E;
+    border: solid #514A7E;
+    transition: 0.2s linear;
+}
+
+.toMessage button:hover {
+    background: white;
+    color: #514A7E;
+    border-color: #514A7E;
+
+    width: 100px;
+    height: 100px;
+
+    .msgImg{
+        fill:#514A7E;
+    };
+}
+
+/* .toMessage button:hover + .msgImg{
+    fill:#514A7E;
+}; */

@@ -1,0 +1,68 @@
+
+/* body {
+    background-color: white;
+} */
+
+.main {
+    background-color: white;
+    width: 1570px;
+    height: 1250px;
+}
+
+/* .header {
+    position: relative;
+    margin-top: 0px;
+} */
+
+.title {
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 135px;
+    color: #121212;
+font-family: Roboto;
+font-size: 40px;
+font-style: normal;
+font-weight: 300;
+line-height: 87.305%;
+}
+
+.products {
+    /* display: inline-flex; */
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 135px;
+}
+
+.prSet {
+    display: inline-flex;
+    margin-top: 20px;
+}
+
+.pr {
+    margin-right: 20px;
+}
+
+.exit button {
+    width: 47px;
+    height: 47px;
+    background-color: white;
+    border: white;
+    position: absolute;
+}
+
+.exit {
+    width: 47px;
+    height: 47px;
+    border-radius: 47px;
+    background-color: #514A7E;
+    position: absolute;
+
+    margin-left: 1250px;
+    margin-top: 150px;
+}
+
+.exit svg {
+    position: absolute;
+    margin-left: 14px;
+    margin-top: 13px;
+}

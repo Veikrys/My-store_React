@@ -1,0 +1,103 @@
+.main {
+    width: 1200px;
+    height: 526px;
+
+background: #FFFDF5;
+position: relative;
+margin-left: 10%;
+margin-top: 10%;
+}
+
+.title {
+    position: absolute;
+        margin-top:7%;
+        margin-left: 10%;
+
+    color: #121212;
+    font-family: Roboto;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 87.305%; /* 34.922px */
+
+    width: 300px;
+}
+
+.form {
+    /* position: absolute; */
+    /* margin-top: 300px;
+    margin-left: 300px; */
+
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 9%;
+
+    display: inline-flex;
+
+
+    width: 400px;
+}
+
+.log {
+    width: 148px;
+    height: 37px;
+    border: 0.5px solid #514A7E;
+    background: #514A7E;
+    margin: 20px;
+
+    color: aliceblue;
+}
+
+.reg {
+    width: 149.28px;
+    height: 37px;
+    border: 0.5px solid #514A7E;
+    margin: 20px;
+    background: white;
+
+    color: #121212;
+}
+
+.btns {
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 110px;
+}
+
+.exit button {
+    width: 47px;
+    height: 47px;
+    background-color: white;
+    border: white;
+    position: absolute;
+}
+
+.exit {
+    width: 47px;
+    height: 47px;
+    border-radius: 47px;
+    background-color: #514A7E;
+    position: absolute;
+
+    margin-left: 1000px;
+    margin-top: 50px;
+}
+
+.exit svg {
+    position: absolute;
+    margin-left: 14px;
+    margin-top: 13px;
+}
+
+.ellipse {
+    width: 429px;
+height: 429px;
+transform: rotate(-90deg);
+flex-shrink: 0;
+border-radius: 429px;
+border: 1px solid #514A7E;
+position: absolute;
+
+margin-left: 80%;
+margin-top: 30%;
+}

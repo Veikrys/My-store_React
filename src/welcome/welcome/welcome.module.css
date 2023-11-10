@@ -1,0 +1,121 @@
+.img1 img{
+    width: 278px;
+    height: 242px;
+    position: absolute;
+    margin-top: 135px;
+    margin-left: 135px;
+}
+
+.img2 img {
+    width: 476px;
+    height: 416px;
+    position: absolute;
+    top:0;
+    right:0;
+    margin-right: 265px;
+    margin-top: 135px;
+}
+
+.title {
+    display: flex;
+    width: 537px;
+    height: 114px;
+    position: absolute;
+    margin-top: 437px;
+    margin-left: 135px;
+}
+
+.titleText {
+    color: #121212;
+    font-family: Roboto;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 87.305%;
+}
+
+.toCatalog {
+    position: absolute;
+    left: 50%;
+    bottom: 20px;
+    transform: translate(-50%, -50%);
+    margin: 0 auto;
+}
+
+.toCatalog button {
+    width: 193px;
+    height: 193px;
+    border-radius: 50%;
+    background-color: #514A7E;
+    color: #FFFDF5;
+    font-family: Roboto;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    transition: 0.1s linear;
+    border: solid #514A7E;
+}
+
+.toCatalog button:hover{
+    background: white;
+    color: #514A7E;
+    border-color: #514A7E;
+    .toCatalogArrow{
+        fill:#514A7E;
+    };
+}
+
+.toCatalogArrow{
+    fill:#FFFDF5;
+}
+
+.toCatalogText {
+    margin-right: 250px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+}
+
+.toCatalogArrow {
+    margin-left: 30px;
+}
+
+.agitka {
+    width: 249px;
+    height: 46px;
+    position: absolute;
+    margin-top: 611px;
+    margin-left: 135px;
+}
+
+.h3_1 {
+    color: #7D7D7D;
+    font-family: Roboto;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 118%;
+    margin: 0 auto;
+
+}
+
+.h3_2 {
+    color: #7D7D7D;
+    font-family: Roboto;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 118%;
+    margin: 0 auto;
+
+}
+
+.h3_3 {
+    color: #7D7D7D;
+    font-family: Roboto;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 118%;
+    margin: 0 auto;
+}

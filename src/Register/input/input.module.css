@@ -1,0 +1,11 @@
+
+.input {
+    width: 372px;
+    border-bottom: solid 0.5px #7D7D7D;
+    margin: 20px;
+}
+
+.input input {
+    border: none;
+    outline: none;
+}

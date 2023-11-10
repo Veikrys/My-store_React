@@ -1,0 +1,103 @@
+.footer {
+    height: 373.401px;
+    background: #514A7E;
+    margin-top: 50px;
+    display: inline-flex;
+    width: 2000px;
+    }
+    
+    .information {
+        margin-top: 20px;
+        margin-left: 100px;
+    }
+    
+    .myKab {
+        margin-top: 20px;
+        margin-left: 100px;
+    }
+    
+    .contInf {
+        margin-top: 20px;
+        margin-left: 100px;
+        width: 200px;
+    }
+    
+    .socSet {
+        margin-top: 20px;
+        width: 300px;
+        margin-left: 100px;
+    }
+    
+    .phone {
+        display: inline-flex;
+    }
+    
+    .phone svg {
+        position: absolute;
+        margin-top: 10px;
+    }
+    
+    .phone p {
+        margin-left: 35px;
+        color: #FFFDF5;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    }
+    
+    .clock {
+        display: flex;
+    }
+    
+    .clock svg {
+        position: absolute;
+    }
+    
+    .clock p {
+        position: absolute;
+        margin-left: 35px;
+        color: #FFFDF5;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    margin-top: 5px;
+    }
+    
+    .footer a {
+        color: #FFFDF5;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    }
+    
+    .footer p {
+        color: #FFFDF5;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    }
+    
+    .footer h4 {
+        color: #FFFDF5;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    }
+    
+    .footer img {
+        width: 120px;
+    height: 120px;
+    
+    margin-top: 50px;
+    margin-left: 100px;
+    }

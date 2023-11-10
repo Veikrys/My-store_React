@@ -1,0 +1,35 @@
+.rightUp {
+    position:absolute;
+    top:0;
+    right:0;
+    margin-right: 264px;
+    margin-top: 54px;
+}
+
+.leftUp {
+    position:absolute;
+    margin-left: 135px;
+    margin-top: 49px;
+}
+
+.searchImg{
+    margin-right: 10px;
+}
+
+.search {
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+
+.userImg {
+    margin-right: 10px;
+}
+
+.user {
+    background-color: white;
+    border: white;
+}
+
+.likeImg {
+    margin-right: 10px;
+}

@@ -1,0 +1,39 @@
+.faq {
+    display: flex;
+    width: 700px;
+    height: 40px;
+    flex-direction: column;
+    justify-content: center;
+
+    margin-left: 115px;
+    margin-top: 100px;
+}
+
+.faq h2 {
+    color: #121212;
+font-family: Roboto;
+font-size: 40px;
+font-style: normal;
+font-weight: 300;
+line-height: 87.305%;
+}
+
+.faq h2 span{
+    color: #514A7E;
+font-family: 'Sansdiego Style', sans-serif;
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 87.305%; /* 34.922px */
+}
+
+.questions {
+    margin-top: 20px;
+}
+
+/* .questions button {
+    background-color: white;
+    border: none;
+
+    width: 50%;
+} */
